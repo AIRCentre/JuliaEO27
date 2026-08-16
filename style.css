@@ -173,7 +173,7 @@ h2 {
 .card__img {
   background-size: cover;
   background-position: center;
-  padding-bottom: 62.5%;
+  padding-bottom: 50.0%;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the columns stack on top of each other instead of next to each other */
