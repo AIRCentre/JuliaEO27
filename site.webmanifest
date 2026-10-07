@@ -1,6 +1,6 @@
 {
-    "name": "JuliaEO26 - International Workshop on Earth Observation with Julia",
-    "short_name": "JuliaEO26",
+    "name": "JuliaEO27 - International Workshop on Earth Observation with Julia",
+    "short_name": "JuliaEO27",
     "icons": [
         {
             "src": "img/android-chrome-192x192.png",
@@ -10,6 +10,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
-    "start_url": "https://aircentre.github.io/JuliaEO25/",
+    "start_url": "https://aircentre.github.io/JuliaEO27/",
     "display": "standalone"
 }
